@@ -1,0 +1,122 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 4,
+		"createdAt": "",
+		"description": "ION RIFLE - (EC-11)",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2025-02-24T12:45:04.632368Z",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/42f33852-df4c-41b1-9d25-dba2bc535043/114ce6d7-da0a-481d-b1c5-4bc6e7668add.png",
+		"publishedAt": "2024-10-24T00:15:40.492406Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/dd3288f7-ff8e-4535-a7e9-e51334cf3682/3a8d3162-1a9a-4dba-9030-8000d1a404ac.png",
+		"title": "ION RIFLE - (EC-11)",
+		"uid": "f00cee34-4bf8-463a-b303-989a9ceb8498",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Lu1X-F34",
+			"uid": "bd3c1a51-c6ad-4897-b656-d273f75fc0e4"
+		},
+		"tags": [
+			{
+				"name": "Blender",
+				"slug": "blender",
+				"uid": "141666cf-0a09-4718-85fa-f0d54884a525"
+			},
+			{
+				"name": "Handgun",
+				"slug": "handgun",
+				"uid": "2f47768d-3cff-46b4-90ee-1620ee64d170"
+			},
+			{
+				"name": "Futuristic",
+				"slug": "futuristic",
+				"uid": "3ccbe53a-83ee-475a-967a-2468963b77cb"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Firearm",
+				"slug": "firearm",
+				"uid": "54c8f6dd-fce8-480f-b482-d07ac386b875"
+			},
+			{
+				"name": "Pistol",
+				"slug": "pistol",
+				"uid": "6d1a500a-998a-4b84-ab20-276745dc79f1"
+			},
+			{
+				"name": "Energy",
+				"slug": "energy",
+				"uid": "a2c2da31-c17f-4297-9df6-fdd02c7fc18f"
+			},
+			{
+				"name": "Weapon",
+				"slug": "weapon",
+				"uid": "cb5288be-1972-4807-9f2a-5f33ddffd407"
+			}
+		],
+		"category":
+		{
+			"name": "Weapons & Combat",
+			"path": "weapons-combat",
+			"slug": "weapons-combat",
+			"uid": "923f0caf-2fed-4ab4-94a3-e0a86ff711b0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "03688c75-6832-4f1f-a499-a6b1af7d2b20",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "5c2895eb-7bfa-441d-9ee2-0fd740564867",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "03688c75-6832-4f1f-a499-a6b1af7d2b20",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
