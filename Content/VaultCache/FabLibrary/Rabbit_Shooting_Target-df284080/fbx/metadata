@@ -1,0 +1,127 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>Rabbit-shaped silhouette for the shooting range with rigging and animation.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2025-02-24T12:34:42.116805Z",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/b98ecf34-acb9-4b6b-a89f-0f4ca8b8b618/ad4243ee-fb06-4d95-a48b-3d17e84e070f.jpeg",
+		"publishedAt": "2024-10-18T21:25:16.749034Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/09fdbefa-c840-46b3-b154-a241b167a2b2/80e0def1-1d1e-4455-9efb-3d9af7b27acd.jpeg",
+		"title": "Rabbit Shooting Target",
+		"uid": "df284080-cdc4-4720-8a1b-d7e5d1935609",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "RefVR Studio",
+			"uid": "fd43b80b-3357-4fa9-844c-0171661c7ca4"
+		},
+		"tags": [
+			{
+				"name": "Range",
+				"slug": "range",
+				"uid": "0653051a-0b74-498b-90ca-dd4bd176eef4"
+			},
+			{
+				"name": "Rabbit",
+				"slug": "rabbit",
+				"uid": "0891d3dd-1b41-4ecd-abba-2b0644385ccb"
+			},
+			{
+				"name": "Blender",
+				"slug": "blender",
+				"uid": "141666cf-0a09-4718-85fa-f0d54884a525"
+			},
+			{
+				"name": "Silhouette",
+				"slug": "silhouette",
+				"uid": "343cc41b-4faf-4fb6-b3c9-a09d1b4ccfb0"
+			},
+			{
+				"name": "Downtown",
+				"slug": "downtown",
+				"uid": "4d11dc1d-5b97-4b22-842c-56d688622c4d"
+			},
+			{
+				"name": "Target",
+				"slug": "target",
+				"uid": "8f6de46d-d856-4f79-9f9c-28e4b10867a2"
+			},
+			{
+				"name": "Rig",
+				"slug": "rig",
+				"uid": "9f01746e-fd05-4ce2-9e0a-150039ab80bb"
+			},
+			{
+				"name": "Animal",
+				"slug": "animal",
+				"uid": "d5ba1972-5cbf-4514-a622-6da3f3020eb7"
+			},
+			{
+				"name": "Rigging",
+				"slug": "rigging",
+				"uid": "da98203a-7033-47df-a230-187da31d5c01"
+			}
+		],
+		"category":
+		{
+			"name": "Electronics & Technology",
+			"path": "electronics-technology",
+			"slug": "electronics-technology",
+			"uid": "18e672da-2da2-4d1b-b0a1-b6a64f108c69"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "ceef2837-df02-40c9-b580-78e0e88fb890",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "bd95d98d-1f1f-4986-a8bc-611944f4e1aa",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "ceef2837-df02-40c9-b580-78e0e88fb890",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
